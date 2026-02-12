@@ -14,8 +14,8 @@ export class Footer {
     { nombre: 'Home', link: '/' },
     { nombre: 'Servicios', link: 'servicios' },
     { nombre: 'Consultas', link: 'consultas' },
-    { nombre: 'Mascotas', link: '#' },
-    { nombre: 'Contacto', link: '#' },
+    { nombre: 'Mascotas', link: 'mascotas' },
+    { nombre: 'Contacto', link: 'contacto' },
   ];
 
 }
